@@ -1,0 +1,29 @@
+GET https://store.oppo.com/cn/oapi/credits/web/report/immediately?amount=5 HTTP/1.1
+Host: store.oppo.com
+Connection: keep-alive
+s_channel: oppo_sau
+utm_term: direct
+utm_campaign: direct
+ut: null
+uc: null
+sa_distinct_id: Y0wvVmlicUp6TW9aSUxiUVlHWGFQdz09
+appKey: 
+Cache-Control: no-cache
+um: null
+User-Agent: Mozilla/5.0 (Linux; Android 9; PBEM00 Build/PKQ1.190519.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.117 Mobile Safari/537.36 oppostore/100601 ColorOS/V6.0.1 brand/OPPO model/PBEM00
+Accept: application/json, text/plain, */*
+source_type: 501
+utm_medium: direct
+appId: 
+s_version: 100601
+us: null
+utm_source: direct
+X-Requested-With: com.oppo.store
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://store.oppo.com/cn/app/taskCenter/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: path=/; sa_distinct_id=Y0wvVmlicUp6TW9aSUxiUVlHWGFQdz09; optjdata2019jssdkcross=%7B%22vk%22%3A%22171bf21f109217-0c0bbd51ce3e64-d3c0c5f-280800-171bf21f10a204%22%2C%22device_id%22%3A%22171bf21f109217-0c0bbd51ce3e64-d3c0c5f-280800-171bf21f10a204%22%2C%22props%22%3A%7B%7D%7D; Op_lvt_f18367c55fd7569d9000cd9986846577=1588086532; source_type=501; app_param={"model":"PBEM00","brand":"OPPO","rom":"ColorOS","romVersion":"V6.0.1"}; Op_lpvt_f18367c55fd7569d9000cd9986846577=1588147172; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22Y0wvVmlicUp6TW9aSUxiUVlHWGFQdz09%22%2C%22%24device_id%22%3A%22171bf21f4212cf-096f02a7a26568-d3c0c5f-280800-171bf21f42216e%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22%22%2C%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_utm_source%22%3A%22opposhop%22%2C%22%24latest_utm_medium%22%3A%22APPgezi%22%7D%2C%22first_id%22%3A%22171bf21f4212cf-096f02a7a26568-d3c0c5f-280800-171bf21f42216e%22%7D; app_utm={"utm_source":"direct","utm_medium":"direct","utm_campaign":"direct","utm_term":"direct"}; app_innerutm={"us":"direct","um":"direct","uc":"direct","ut":"direct"}; token=TOKEN_eyJhbGciOiJFQ0RTQSIsInYiOiIxIn0.eyJleHAiOjE1OTMyMTYzMTcwNzksImlkIjoiNDgyNDc5MzIyIiwiaWRjIjoic2hvdW1pbmciLCJ0aWQiOiJSdmZaS1VrTXBUck0vWHlsWVM4NEtuVHJJWjdxeWs0M0Ewa3dLTFUrUFpMTmJGUjE4QzVYaXlwOVBENGxqOGdKZGo5RSsyVWFXcC9nZ3pqaDJ2ajVNNjVHY3VlMGI4Z2x4KzBrc3IyQTMyOD0ifQ.MEUCICb7I-cr6B724hvRMsxEhC0MPamOkSYhTr0uJgDAKLY6AiEA6kEPcq7YpUnFErt_YZHhbEneQSV1k1gLaR4xY1hin-Q; s_version=100601; s_channel=oppo_sau; utm_source=direct; utm_medium=direct; utm_campaign=direct; utm_term=direct; us=null; um=null; uc=null; ut=null; newopkey=Tp6PYAeIHrZ4l_z8oMCbC--jc_QZK6FkwqARoxhPloKcrMm_11gu7GkCQq4JiqP0izPOYkEXofc; NEWOPPOSID=eyJpdiI6IllERndaanVTTVh1ZFFXVzJoM1Fmb3c9PSIsInZhbHVlIjoiUE1pVGtlQnQwMXdsTmpzdEtFSjNIOFlBVmdrQzhGZmx0b2d5NU02Q2FVRTJmMjk4UkpVUVllMGZMUlZkbmlka0FjRnZEUkxWQnNKa0tZc2puR3FJcVFMS0pKU0hkWFA3TkFOSmpGOGZvUVVwbUU5bEhTbTl2cEF5RG1lZ3psdEQiLCJtYWMiOiI1NWJjODU2ODM2OGUyNmFjOTg5NjIxZGU4YmNmYjdhZDVkMzVlNWUwZTQwY2Q5Yjg3MzQ5NGRhOTUyOTNkZTA3In0=; opkey=eyJpdiI6IllERndaanVTTVh1ZFFXVzJoM1Fmb3c9PSIsInZhbHVlIjoiUE1pVGtlQnQwMXdsTmpzdEtFSjNIOFlBVmdrQzhGZmx0b2d5NU02Q2FVRTJmMjk4UkpVUVllMGZMUlZkbmlka0FjRnZEUkxWQnNKa0tZc2puR3FJcVFMS0pKU0hkWFA3TkFOSmpGOGZvUVVwbUU5bEhTbTl2cEF5RG1lZ3psdEQiLCJtYWMiOiI1NWJjODU2ODM2OGUyNmFjOTg5NjIxZGU4YmNmYjdhZDVkMzVlNWUwZTQwY2Q5Yjg3MzQ5NGRhOTUyOTNkZTA3In0=; memberinfo=%7B%22id%22%3A%22482479322%22%2C%22name%22%3A%22Kitechin%22%2C%22oid%22%3A%22Y0wvVmlicUp6TW9aSUxiUVlHWGFQdz09%22%7D; oppostore_rsa_key=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJCYMLNhFBtDcbb72YZVDm%2FFG3m3oR4kU8f7JgvAmhI%2FlQvqhYczoJz8QZU30ml0nvtO2dB%2FfcqTEW9RyUhw8jUCAwEAAQ%3D%3D
+
